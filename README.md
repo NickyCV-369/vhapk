@@ -2,4 +2,4 @@
 
 Ảnh minh họa giao diện:
 
-![Demo](https://github.com/NickyCV-369/vhapk/blob/main/public/images/home-demo.png?raw=true)
+![Demo](https://github.com/NickyCV-369/vhapk/public/images/home-demo.png?raw=true)
