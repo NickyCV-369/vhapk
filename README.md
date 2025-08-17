@@ -5,7 +5,7 @@
 ## Trang chủ
 ![Home](./public/images/home-demo.jpg)
 
-![Home 2](./public/images/home2-demo.jpg)
+![Home 2](./public/images/home2-demo.png)
 
 ## Chi tiết app
 ![Details](./public/images/details-demo.jpg)
